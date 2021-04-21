@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/20.12.25/miui_LAURUS_20.12.25_7db37d39cf_10.0.zip
+  ROM_URL: https://hugeota.d.miui.com/20.6.23/miui_LAURUS_20.6.23_2f7e303d03_10.0.zip
   ROM_NAME: MIUI for Android 10
   TZ: Asia/Shanghai
 
